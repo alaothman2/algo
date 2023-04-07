@@ -1,0 +1,6 @@
+1- Start with the second element of the array (i.e., index 1). The first element is already considered sorted.
+2- Compare the second element with the first element. If the second element is smaller than the first element, swap them.
+3- Move to the third element and compare it with the second element. If the third element is smaller than the second element, swap them. 
+4- Now compare the third element with the first element. If the third element is smaller than the first element, swap them.
+5- Repeat step 3 for all the remaining elements in the array.
+6- The array is now sorted in ascending order.
